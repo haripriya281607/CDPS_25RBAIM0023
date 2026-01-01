@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = 'empty-project-type'
+recent_files = ['src\\__init__.py', 'src\\database.py', 'src\\models.py', 'src\\utils.py', 'src\\debug_log.py', 'src\\hotel_operations.py', 'src\\main.py', '..\\.spyder-py3\\autosave\\main.py']
+
+[main]
+version = 0.2.0
+recent_files = []
+
